@@ -1,0 +1,16 @@
+ body{
+
+ background-size: 1500px 1100px;
+
+      background-image: url("../girl.jpeg");
+      background-repeat: no-repeat;
+    
+      background-attachment: scroll;
+    }
+    body h2{
+      color:rgb(4, 1, 12);
+      background-color: rgb(243, 243, 243);
+      height: auto;
+      width: 500px;
+
+    }

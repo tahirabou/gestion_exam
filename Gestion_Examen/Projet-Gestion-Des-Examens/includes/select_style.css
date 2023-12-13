@@ -1,0 +1,32 @@
+body
+{
+ background-color:#ccc7c7;
+ font-family:helvetica;
+}
+#heading
+{
+ text-align:center;
+ margin-top:150px;
+ font-size:30px;
+ color:rgb(175, 175, 255);
+}
+#select_box
+{
+ width:500px;
+ background-color:#6bf09e;
+ padding:10px;
+ height:200px;
+ border-radius:5px;
+ box-shadow:0px 0px 10px 0px grey;
+}
+select
+{
+ width:400px;
+ height:50px;
+ border:1px solid #6d6565;
+ margin-top:20px;
+ padding:10px;
+ font-size:20px;
+ color:rgb(56, 53, 53);
+ border-radius:5px;
+}

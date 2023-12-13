@@ -1,0 +1,25 @@
+#btnn{
+
+text-decoration: none;
+    display: block;
+    padding: 10px 27px;
+    padding-left: 3px;
+
+    color: #5f77c7 ;
+   
+   
+    background: #f8f5f5 ;
+    font-size: 18px;
+  
+    font-style: normal;
+   width:50px;
+   
+    
+    border-radius: 20px;
+    
+    margin-bottom: 10px;
+margin-top: 10px;}
+
+    #btn:hover {
+        background: #5f77c7 ;
+    }
